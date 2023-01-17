@@ -1,0 +1,22 @@
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\bin\Debug\170123_AtYarisi.exe.config
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\bin\Debug\170123_AtYarisi.exe
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\bin\Debug\170123_AtYarisi.pdb
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.csproj.AssemblyReference.cache
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.csproj.SuggestedBindingRedirects.cache
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\obj\Debug\_170123_AtYarisi.Form.resources
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\obj\Debug\_170123_AtYarisi.Properties.Resources.resources
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.csproj.GenerateResource.cache
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.csproj.CoreCompileInputs.cache
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.exe
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.pdb
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\bin\Debug\170123_AtYarisi.exe.config
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\bin\Debug\170123_AtYarisi.exe
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\bin\Debug\170123_AtYarisi.pdb
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\obj\Debug\_170123_AtYarisi.Form.resources
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\obj\Debug\_170123_AtYarisi.Properties.Resources.resources
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.csproj.GenerateResource.cache
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.exe
+E:\Visual Studio Projects\170123_AtYarisi\170123_AtYarisi\obj\Debug\170123_AtYarisi.pdb
