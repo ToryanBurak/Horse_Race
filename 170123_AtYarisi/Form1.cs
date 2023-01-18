@@ -126,7 +126,7 @@ namespace _170123_AtYarisi
             h2 = rnd.Next(2, 5);
             h3 = rnd.Next(2, 5);
             h4 = rnd.Next(2, 5);
-            hpwdsayac++;
+         
         }
         //Yarışı Bitir Butonu
         private void btnStop_Click(object sender, EventArgs e)
